@@ -4,7 +4,7 @@ locals {
         Project = var.project
         Environment = var.environment
         Terraform = "true"
-        Nmae = local.common_name
+        Name = local.common_name
 
     }
 }
